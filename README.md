@@ -80,8 +80,11 @@ See [my website](#) for more information!
   <a href="https://four-card-feature-fm-alekseisaunders.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
+          <a href="#" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=ff0066&style=plastic&logo=figma"/>
+          </a>
       </p>
-        <p><strong>HTML5, CSS3</strong> - A Frontend Mentor practice site. Given a Fimga file code the site with HTML and CSS</p>
+        <p><strong>HTML5, CSS3, and Figma</strong> - A Frontend Mentor practice site. Given a Fimga file code the site with HTML and CSS</p>
     </td>
 </tr>
   </table>
