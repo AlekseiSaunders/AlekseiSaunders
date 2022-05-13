@@ -21,7 +21,7 @@
 
 Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Software Engineer. I'm driven to write code that helps causes and companies share their vision and change the world for the better, with a background in Biology, Conservation, and Education.
 
-See [my website](#) for more information!
+<!-- See [my website](#) for more information! -->
 
 
 <h1 align="center">Projects</h1>
