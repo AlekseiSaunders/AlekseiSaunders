@@ -28,11 +28,11 @@ See [my website](#) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3 align="center">Naturalist Study Cards</h3>
         <br />
         <a target="_blank" href="https://naturaliststudycards.netlify.app/">
-            <img src="./resources/images/naturaliststudycards.gif" width="100%" alt="Naturalist Study Cards"/>
+            <img src="naturaliststudycards.gif" width="100%" alt="Naturalist Study Cards"/>
         </a>
         <br />
         <p align="center">
@@ -46,11 +46,11 @@ See [my website](#) for more information!
       </p>
         <p><strong>Javascript, HTML, CSS, iNaturalist API call</strong> - Study card app that pulls images and data from iNaturalist and populates a deck of study cards based on your selections.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h3 align="center">Madagascar Fishes</h3>
         <br />
       <a target="_blank" href="http://madagascarfish.com/">
-            <img src="./resources/images/madagascarfish.gif" width="100%"  alt="Madagascarfish"/>
+            <img src="madagascarfish.gif" width="100%"  alt="Madagascarfish"/>
         </a>
         <br />
         <p align="center">
