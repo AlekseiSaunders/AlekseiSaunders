@@ -65,7 +65,7 @@ See [my website](#) for more information!
         <p><strong>HTML, CSS</strong> - An informational site featuring the endemic freshwater fish of Madagascar, the efforts to conserve them in the wild, and the people working hard to do so.</p>
     </td>
   </tr>
-  </table> -->
+  </table>
   <!-- <tr>
     <td width="50%" valign="top">
       <h3 align="center">ShawnCharles.com</h3>
