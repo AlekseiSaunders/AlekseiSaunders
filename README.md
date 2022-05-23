@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/ZPmoZq7.jpg" width="100%">
 
 <p align="center">
-  <a href="alekseisaunders.com" target="_blank">
+  <a href="https://alekseisaunders.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white"/>
   </a>
   <a href="https://https://www.linkedin.com/in/alekseisaunders/" target="_blank">
