@@ -164,7 +164,7 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
 
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://alekseisaunders.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white"/>
   </a>
   <a href="https://https://www.linkedin.com/in/alekseisaunders/" target="_blank">
