@@ -11,10 +11,10 @@
   <a href="https://twitter.com/alekseisaunders" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=6f5da8&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <!-- <a href="https://shawncharles.com/angellist" target="_blank">
+  <a href="https://angel.co/u/aleksei-saunders" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a> -->
-  <a href="#" target="_blank">
+  </a>
+  <a href="https://alekseisaunders.com/Aleksei_Saunders_Resume.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=e153cb&style=plastic&logo=trustpilot&logo-color=white"/>
   </a>
 </p>
@@ -173,10 +173,10 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
   <a href="https://twitter.com/alekseisaunders" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=6f5da8&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <!-- <a href="https://shawncharles.com/angellist" target="_blank">
+  <<a href="https://angel.co/u/aleksei-saunders" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a> -->
-  <!-- <a href="https://alekseisaunders.com/resume" target="_blank">
+  </a>
+  <<a href="https://alekseisaunders.com/Aleksei_Saunders_Resume.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=e153cb&style=plastic&logo=trustpilot&logo-color=white"/>
   </a> -->
 </p>
