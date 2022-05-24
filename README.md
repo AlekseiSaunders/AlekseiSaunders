@@ -178,7 +178,7 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
   </a>
   <<a href="https://alekseisaunders.com/Aleksei_Saunders_Resume.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white"/>
-  </a> -->
+  </a>
 </p>
 
 
