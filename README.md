@@ -47,6 +47,26 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
         <p><strong>Javascript, HTML, CSS, iNaturalist API call</strong> - Study card app that pulls images and data from iNaturalist and populates a deck of study cards based on your selections.</p>
     </td>
     <td width="40%" valign="top">
+      <h3 align="center">Movie Finder using React</h3>
+        <br />
+      <a target="_blank" href="https://zippy-arithmetic-5c73a6.netlify.app/">
+            <img src="movieFinderReact.gif" width="100%"  alt="Madagascarfish"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AlekseiSaunders/react-movie-finder" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://zippy-arithmetic-5c73a6.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript, and React</strong> - My first React site. Built off of a solo project from Scrimba. Given an Figma file but no code I built the original using just HTML, CSS, and JavaScript. I added a color-mode selector for light/dark and decided to practice passing props into my React Components. </p>
+    </td>
+  </tr>
+  <tr> 
+  <td width="40%" valign="top">
       <h3 align="center">Madagascar Fishes</h3>
         <br />
       <a target="_blank" href="http://madagascarfish.com/">
@@ -64,8 +84,6 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
       </p>
         <p><strong>HTML, CSS</strong> - An informational site featuring the endemic freshwater fish of Madagascar, the efforts to conserve them in the wild, and the people working hard to do so.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Frontend Mentor - Four Card Feature</h3>
       <br />
