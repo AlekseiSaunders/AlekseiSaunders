@@ -1,25 +1,25 @@
 
-<img src="https://i.imgur.com/ZPmoZq7.jpg" width="100%">
+<img src="https://i.imgur.com/ZPmoZq7.jpg" width="100%" alt="">
 
 <p align="center">
   <a href="https://alekseisaunders.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white" alt="webitsite"/>
   </a>
   <a href="https://https://www.linkedin.com/in/alekseisaunders/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=e153cb&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=e153cb&style=plastic&logo=linkedin&logo-color=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/alekseisaunders" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=6f5da8&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=6f5da8&style=plastic&logo=twitter&logo-color=white" alt="Twitter"/>
   </a>
   <a href="https://angel.co/u/aleksei-saunders" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=e153cb&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=e153cb&style=plastic&logo=angellist&logo-color=white" alt="Angel-list"/>
   </a>
   <a href="https://alekseisaunders.com/Aleksei_Saunders_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white" alt="Resume"/>
   </a>
 </p>
 
-Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Software Engineer. I'm driven to write code that helps causes and companies share their vision and change the world for the better, with a background in Biology, Conservation, and Education.
+Currently using HTML, CSS, JavaScript, React, Node, Express, and MongoDB. Previously I worked as a Zookeeper/Aquarist in Colorado, but I made the switch to Software Engineer. I'm driven to write code that helps causes and companies share their vision and change the world for the better, with a background in Biology, Conservation, and Education.
 
 <!-- See [my website](#) for more information! -->
 
@@ -38,10 +38,10 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
         <p align="center">
           
   <a href="https://github.com/AlekseiSaunders/naturalistStudyCards" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white" alt="Naturalist Cards Github Repo"/>
   </a>  
   <a href="https://naturaliststudycards.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white" alt="Naturalist Cards website Link"/>
   </a>
       </p>
         <p><strong>Javascript, HTML, CSS, iNaturalist API call</strong> - Study card app that pulls images and data from iNaturalist and populates a deck of study cards based on your selections.</p>
@@ -49,17 +49,17 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
     <td width="40%" valign="top">
       <h3 align="center">Movie Finder using React</h3>
         <br />
-      <a target="_blank" href="https://zippy-arithmetic-5c73a6.netlify.app/">
-            <img src="movieFinderReact.gif" width="100%"  alt="Madagascarfish"/>
+      <a href="https://zippy-arithmetic-5c73a6.netlify.app/" target="_blank">
+            <img src="movieFinderReact.gif" width="100%"  alt="Movie Finder using React"/>
         </a>
         <br />
         <p align="center">
           
   <a href="https://github.com/AlekseiSaunders/react-movie-finder" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white" alt="Movie Finder React Github Repo"/>
   </a>
   <a href="https://zippy-arithmetic-5c73a6.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white" alt="Movie Finder React Website"/>
   </a>
       </p>
         <p><strong>HTML, CSS, JavaScript, and React</strong> - My first React site. Built off of a solo project from Scrimba. Given an Figma file but no code I built the original using just HTML, CSS, and JavaScript. I added a color-mode selector for light/dark and decided to practice passing props into my React Components. </p>
@@ -76,10 +76,10 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
         <p align="center">
           
   <a href="https://github.com/AlekseiSaunders/iucnffsgmadagascar" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white" alt="Madagascarfish Github Repo"/>
   </a>
   <a href="http://madagascarfish.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white" alt="Madagascarfish Website"/>
   </a>
       </p>
         <p><strong>HTML, CSS</strong> - An informational site featuring the endemic freshwater fish of Madagascar, the efforts to conserve them in the wild, and the people working hard to do so.</p>
@@ -93,13 +93,13 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
       <br />
         <p align="center">
   <a href="https://github.com/AlekseiSaunders/fourCardFeatureFM" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white" alt="Four-Card-Feature Github Repo"/>
   </a>
   <a href="https://four-card-feature-fm-alekseisaunders.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white" alt="Four-Card-Feature Website"/>
   </a>
           <a href="#" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=ff0066&style=plastic&logo=figma"/>
+          <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=ff0066&style=plastic&logo=figma" alt="Four-Card-Feature Figma File"/>
           </a>
       </p>
         <p><strong>HTML5, CSS3, and Figma</strong> - A Frontend Mentor practice site. Given a Fimga file code the site with HTML and CSS</p>
@@ -150,25 +150,25 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=6f5da8&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=6f5da8&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=6f5da8&style=plastic&logo=html5" alt="HTML5 icon"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=6f5da8&style=plastic&logo=css3" alt="CSS3 icon"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/> -->
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=e153cb&style=plastic&logo=javascript"/>
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=e153cb&style=plastic&logo=javascript" alt="JS icon"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react" alt="React icon"/>
+    <!--<img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
     <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>-->
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=e153cb&style=plastic&logo=amazon"/>
+<!--     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=e153cb&style=plastic&logo=amazon" alt="AWS icon"/> -->
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>-->
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=ff0066&style=plastic&logo=adobe"/> 
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=ff0066&style=plastic&logo=adobe" alt="Adobe icon"/> 
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/> -->
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ff0066&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ff0066&style=plastic&logo=git" alt="Git icon"/>
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/> -->
 </p>
 
@@ -183,30 +183,19 @@ Previously a Zookeeper/Aquarist working in Colorado, I made the switch to Softwa
 
 <p align="center">
   <a href="https://alekseisaunders.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white" alt="Aleksei Saunders website"/>
   </a>
   <a href="https://https://www.linkedin.com/in/alekseisaunders/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=e153cb&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=e153cb&style=plastic&logo=linkedin&logo-color=white" alt="Aleksei Saunders LinkedIn"/>
   </a>
   <a href="https://twitter.com/alekseisaunders" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=6f5da8&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=6f5da8&style=plastic&logo=twitter&logo-color=white" alt="Aleksei Saunders Twitter"/>
   </a>
   <a href="https://angel.co/u/aleksei-saunders" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=e153cb&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=e153cb&style=plastic&logo=angellist&logo-color=white" alt="Aleksei Saunders Angel-list"/>
   </a>
   <a href="https://alekseisaunders.com/Aleksei_Saunders_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=6f5da8&style=plastic&logo=trustpilot&logo-color=white" alt="Aleksei Saunders Resume"/>
   </a>
 </p>
 
-
-<!--- 👋 Hi, I’m @AlekseiSaunders
-- 👀 I’m interested in transitioning to a job as a fullstack web developer and data analyst. But also beer, birds, and building kayaks. 
-- 🌱 I’m currently learning, well, as much as I can... HTML, CSS, JavaScript, Node, Express, SQL, MongoDB, Python, how to use an ErgoDox keyboard..
-- 💞️ I’m looking to collaborate on anything that can build and cement these skills, especially environmental projects involving conservation or habitat monitoring.
-- 📫 How to reach me alekseisaunders@gmail.com.
-
-
-AlekseiSaunders/AlekseiSaunders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
