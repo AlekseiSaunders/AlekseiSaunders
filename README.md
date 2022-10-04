@@ -19,7 +19,7 @@
   </a>
 </p>
 
-Currently using HTML, CSS, JavaScript, React, Node, Express, and MongoDB. Previously I worked as a Zookeeper/Aquarist in Colorado, but I made the switch to Software Engineer. I'm driven to write code that helps causes and companies share their vision and change the world for the better, with a background in Biology, Conservation, and Education.
+Currently using HTML, CSS, JavaScript, React, Node, Express, MongoDB, Mongoose, ejs, Bootstrap5. Previously I worked as a Zookeeper/Aquarist in Colorado, but I made the switch to Software Engineer. I'm driven to write code that helps causes and companies share their vision and change the world for the better, with a background in Biology, Conservation, and Education.
 
 <!-- See [my website](#) for more information! -->
 
@@ -28,6 +28,26 @@ Currently using HTML, CSS, JavaScript, React, Node, Express, and MongoDB. Previo
 <table bordercolor="#66b2b2">
   
   <tr>
+  <!-- Harmony Dog Website -->
+  <td width="40%" valign="top">
+      <h3 align="center">Harmony Dog</h3>
+        <br />
+        <a target="_blank" href="https://harmonydog.herokuapp.com/">
+            <img src="naturaliststudycards.gif" width="100%" alt="Naturalist Study Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AlekseiSaunders/harmonydog" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=6f5da8&style=plastic&logo=github&logo-color=white" alt="Naturalist Cards Github Repo"/>
+  </a>  
+  <a href="https://harmonydog.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e153cb&style=plastic&logo=wordpress&logo-color=white" alt="Naturalist Cards website Link"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, CSS, NodeJS, Express, MongoDB, Mongoose, ejs, BootStrap5</strong> - Website for a Dog Training small business, user accounts, administration dashboard, class scheudle and Calendly integration</p>
+    </td>
+    <!-- Naturalist Study Cards-->
     <td width="40%" valign="top">
       <h3 align="center">Naturalist Study Cards</h3>
         <br />
